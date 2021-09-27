@@ -1,0 +1,15 @@
+C:\Users\mifus_000\Desktop\Poloniex\MoneyMachine\MoneyMachineConsole\obj\Debug\MoneyMachineConsole.csprojResolveAssemblyReference.cache
+C:\Users\mifus_000\Desktop\Poloniex\MoneyMachine\MoneyMachineConsole\bin\Debug\MoneyMachineConsole.exe.config
+C:\Users\mifus_000\Desktop\Poloniex\MoneyMachine\MoneyMachineConsole\bin\Debug\MoneyMachineConsole.exe
+C:\Users\mifus_000\Desktop\Poloniex\MoneyMachine\MoneyMachineConsole\bin\Debug\MoneyMachineConsole.pdb
+C:\Users\mifus_000\Desktop\Poloniex\MoneyMachine\MoneyMachineConsole\obj\Debug\MoneyMachineConsole.exe
+C:\Users\mifus_000\Desktop\Poloniex\MoneyMachine\MoneyMachineConsole\obj\Debug\MoneyMachineConsole.pdb
+J:\Work\GithubMateusGrijo\PoloniexMoneyMachineConsole\obj\Debug\MoneyMachineConsole.csproj.AssemblyReference.cache
+J:\Work\GithubMateusGrijo\PoloniexMoneyMachineConsole\obj\Debug\MoneyMachineConsole.csproj.CoreCompileInputs.cache
+J:\Work\GithubMateusGrijo\PoloniexMoneyMachineConsole\obj\Debug\MoneyMachineConsole.exe
+J:\Work\GithubMateusGrijo\PoloniexMoneyMachineConsole\obj\Debug\MoneyMachineConsole.pdb
+J:\Work\GithubMateusGrijo\PoloniexMoneyMachineConsole\bin\Debug\MoneyMachineConsole.exe.config
+J:\Work\GithubMateusGrijo\PoloniexMoneyMachineConsole\bin\Debug\MoneyMachineConsole.exe
+J:\Work\GithubMateusGrijo\PoloniexMoneyMachineConsole\bin\Debug\MoneyMachineConsole.pdb
+J:\Work\GithubMateusGrijo\PoloniexMoneyMachineConsole\bin\Debug\Newtonsoft.Json.dll
+J:\Work\GithubMateusGrijo\PoloniexMoneyMachineConsole\obj\Debug\MoneyMachineConsole.csproj.CopyComplete
